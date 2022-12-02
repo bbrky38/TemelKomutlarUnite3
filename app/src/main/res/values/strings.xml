@@ -5,11 +5,11 @@
     <string name="uyg3_name">Uygulama 3 (Char Veri Tipi)</string>
     <string name="uyg4_name">Uygulama 4 (ASCII Kodu)</string>
     <string name="uyg5_name">Uygulama 5 (Ondalıklı Sayılar)</string>
-    <string name="uyg6_name">Uygulama 6(final Sabit Değer)</string>
-    <string name="uyg7_name">Uygulama 7(Aritmetiksel Oparetör)</string>
-    <string name="uyg8_name">Uygulama 8</string>
-    <string name="uyg9_name">Uygulama 9</string>
-    <string name="uyg10_name">Uygulama 10</string>
-    <string name="uyg11_name">Uygulama 11</string>
+    <string name="uyg6_name">Uygulama 6 (final Sabit Değer)</string>
+    <string name="uyg7_name">Uygulama 7 (Aritmetiksel Oparetör)</string>
+    <string name="uyg8_name">Uygulama 8 (Atama Operatörleri)</string>
+    <string name="uyg9_name">Uygulama 9 (Karşılaştırma Oparetörleri)</string>
+    <string name="uyg10_name">Uygulama 10 (Mantıksal Operatorler)</string>
+    <string name="uyg11_name">Uygulama 11 (Logcat)</string>
     <string name="uyg12_name">Uygulama 12</string>
 </resources>
